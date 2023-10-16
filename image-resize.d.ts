@@ -1,1 +1,1 @@
-declare module 'quill-image-resize-module';
+declare module '@progalaxyelabs/quill-image-resize-module';

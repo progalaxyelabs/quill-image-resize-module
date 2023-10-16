@@ -1,5 +1,5 @@
 {
-  "name": "quill-image-resize-module",
+  "name": "@progalaxyelabs/quill-image-resize-module",
   "version": "3.0.0",
   "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min",
@@ -24,10 +24,7 @@
   ],
   "author": "@kensnyder",
   "contributors": [
-    {
-      "name": "Wikia",
-      "url": "https://github.com/Wikia"
-    }
+    "Wikia (https://github.com/Wikia)"
   ],
   "license": "MIT",
   "bugs": {
